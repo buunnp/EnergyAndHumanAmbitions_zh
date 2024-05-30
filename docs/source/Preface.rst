@@ -70,8 +70,8 @@
 
 大多数面向通识教育的能源与环境教科书都是枯燥地分析能源资源、其实现方式以及各自的优缺点。
 这本教科书也是如此，但在提供背景解释方面没有那么拘谨，比如说波浪、地热、潮汐或洋流等资源由于规模较小，
-可能不值得认真关注。从这个意义上说，本书与 David MacKay 的\ :title:`Sustainable Energy: 
-Without the Hot Air`\ :cite:labelpar:`c2` 有几分相似。
+可能不值得认真关注。从这个意义上说，本书与 David MacKay 的 :title:`Sustainable Energy: 
+Without the Hot Air` :cite:labelpar:`c2` 有几分相似。
 事实上，之所以决定以 PDF 格式免费提供这本书的电子版
 （可在 https://escholarship.org/uc/energy_ambitions 上查阅），完全是受到了 MacKay 的启发。
 这个主题太重要了，不能让出版商的经济利益限制读者的阅读。
