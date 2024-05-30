@@ -16,6 +16,14 @@
 
 -----
 
+.. rubric:: 翻译进展
+
+2024/5/30：完成前言、后记和第一部分四个章节的翻译，发布到 Readthedocs 网站。
+
+.. rubric:: 欢迎参与翻译项目
+
+项目地址：https://github.com/buunnp/EnergyAndHumanAmbitions_zh
+
 .. rubric:: 数学公式不能在网页上正常显示
 
 这是因为按 LaTex 语法显示数学公式的 js 库没能正常加载，多半是网络问题。
