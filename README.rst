@@ -1,6 +1,8 @@
 Energy and Human Ambitions on a Finite Planet 中文版
 =====================================================
 
+请访问 `Readthdocs 网站`_ 在线阅读已翻译的章节。
+
 :title:`Energy and Human Ambitionson a Finite Planet - Assessing and Adapting to Planetary Limits`
 是加州大学教授 Thomas Murphy 撰写的开放课本，由 eScholarship_ 在线出版，
 可访问 `此网址`_ 获取本书完整信息，以及英文原文 PDF 文件。
@@ -8,6 +10,7 @@ Energy and Human Ambitions on a Finite Planet 中文版
 本书作者 `Thomas Murphy 的博客 <https://dothemath.ucsd.edu>`_ 有更多相关内容，
 欢迎感兴趣的读者继续阅读。
 
+.. _Readthdocs 网站: http://energy-and-human-ambitions-on-a-finite-planet.readthedocs.io/
 .. _eScholarship:
 .. _此网址: https://escholarship.org/uc/item/9js5291m
 
