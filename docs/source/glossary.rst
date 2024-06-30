@@ -34,12 +34,6 @@
     electromagnetic radiation
      refers to any transport of energy by electromagnetic waves, which include light, ultraviolet, infrared, X-rays, microwaves, gamma rays, and radio waves. 
 
-    wavelength
-     measures the length of a wave from crest to crest or trough to trough, and can apply to waves in water, air (sound), or electromagnetic waves (light). The symbol 𝜆 (lambda) is often used to denote wavelength. The units are length (m), often expressed in :term:`microns<micron>` (𝜇m).
-
-    micron
-     (𝜇m) is 10\ :sup:`-6` meters, or a micro-meter.
-
     Stefan-Boltzmann law
      says that the :term:`power` emitted from a surface of area, 𝐴, and temperature, 𝑇 will be 𝑃 = 𝐴𝜎𝑇\ :sup:`4`, where 𝜎 is the :term:`Stefan-Boltzmann constant`.
 
@@ -118,3 +112,49 @@
     terraforming
      is the speculative idea of transforming the atmosphere and environment of a planet hostile to
      human life into one that is suited to human needs. 
+
+    heat loss rate
+     as used in this book is the power per Δ𝑇 (in ◦C) required to maintain a temperature differential.
+     Units are W/◦C, and typical houses might be a few hundred W/◦C.
+
+    electromagnetic spectrum
+     refers to the sweep of wavelengths or frequencies of :term:`electromagnetic radiation`,
+     including light, ultraviolet, infrared, X-rays, microwaves, gamma rays, and radio waves. 
+
+    photon
+     is the smallest indivisible particle of light: a minimum quantum packet of :term:`energy`.
+     Each photon has a well defined energy, which can also be expressed as a :term:`wavelength` or :term:`frequency`.
+
+    wavelength
+     measures the length of a wave from crest to crest or trough to trough, and can apply to waves in water, air (sound), or electromagnetic waves (light).
+     The symbol 𝜆 (lambda) is often used to denote wavelength. The units are length (m), often expressed in :term:`microns<micron>` (𝜇m). 
+
+    micron
+     (𝜇m) is 10\ :sup:`−6` meters, or a micro-meter. 
+
+    frequency
+     characterizes the number of cycles per second in a periodic phenomenon (often in wave
+     phenomena). The units are Hertz, or 1/s. 
+
+    R/P ratio
+     or reserves-to-production ratio is a means to assess time remaining for a resource of quantity R units, being used (produced) at a rate of P units per year.
+     The result is years available at the present rate, absent discovery of additional resources or change in rate of use. 
+
+    EIA
+     Energy Information Administration.
+    
+    Annual Energy Review
+    AER
+     is compiled by the U.S. :term:`EIA`, capturing energy use and trends for all sources and sectors.
+
+    British thermal unit
+    Btu
+     is a unit of energy in the Imperial unit system, defined as the amount of energy required ◦
+     to heat one pound of water by 1 °F. It is equivalent to 1,055 Joules. 
+
+    SI
+     Système International. 
+
+    thermal equivalent
+     is a construct used to compare thermal energy sources like coal, oil, and natural gas to sources like solar, wind, and hydroelectricity, which do not derive from thermal sources.
+     Usually in the context of electricity production, multiplying by about 2.7 puts non-thermal sources into thermal-equivalent terms.
