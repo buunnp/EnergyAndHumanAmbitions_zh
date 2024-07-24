@@ -140,17 +140,14 @@
      or reserves-to-production ratio is a means to assess time remaining for a resource of quantity R units, being used (produced) at a rate of P units per year.
      The result is years available at the present rate, absent discovery of additional resources or change in rate of use. 
 
-    EIA
-     Energy Information Administration.
-    
     Annual Energy Review
     AER
      is compiled by the U.S. :term:`EIA`, capturing energy use and trends for all sources and sectors.
 
     British thermal unit
     Btu
-     is a unit of energy in the Imperial unit system, defined as the amount of energy required ◦
-     to heat one pound of water by 1 °F. It is equivalent to 1,055 Joules. 
+     is a unit of energy in the Imperial unit system, defined as the amount of energy required 
+     to heat one pound of water by 1 °F. It is equivalent to 1,055 :term:`Joules<Joule>`. 
 
     SI
      Système International. 
@@ -158,3 +155,92 @@
     thermal equivalent
      is a construct used to compare thermal energy sources like coal, oil, and natural gas to sources like solar, wind, and hydroelectricity, which do not derive from thermal sources.
      Usually in the context of electricity production, multiplying by about 2.7 puts non-thermal sources into thermal-equivalent terms.
+
+    kinetic energy
+     is the energy of motion, given by 1/2 𝑚𝑣\ :sup:`2` for a mass, 𝑚, at velocity, 𝑣. If input units are kg and
+     m/s, the resulting unit will be :term:`Joules<Joule>`.
+
+    calorie
+     (cal) is a unit of energy, defined as the amount of energy required to heat one gram (1 g, 1 mL, 
+     1 cm\ :sup:`3`) of water by 1 ℃. It is equivalent to 4.184 :term:`Joules<Joule>`.
+
+    heat capacity
+     is the amount of energy it takes to raise an object’s temperature by 1◦C. The specific heat capacity is 
+     the heat capacity divided by mass, becoming an intrinsic property of the material. Water’s
+     specific heat capacity is 4,184 J/kg/℃, intimately tied to the definition of the kilocalorie.
+
+    kilowatt-hour
+     (kWh) is a unit of energy, constructed as a power (kilowatts) times time (hours). It is equivalent
+     to 3,600,000 :term:`Joules<Joule>`, or 3.6 MJ. 
+
+    Therm
+     is a unit of energy defined as 100,000 :term:`British thermal units<Btu>`, and is equivalent to 
+     1.055 × 10\ :sup:`8` :term:`Joules<Joule>`.
+
+    voltage
+     is a measure of electric potential energy, expressed in units of :term:`Volts<Volt>`.
+
+    Volt
+     (V) is a unit of voltage, or electric potential, and can be thought of as the electrical analog to gravitational potential energy, 
+     and is also somewhat like pressure in a fluid system.
+
+    charge
+     is a measure of the degree to which a particle or object is influenced by electromotive forces. Electric charge can be positive or negative, 
+     so that like charges repel and opposites attract. The unit for electric charge is the :term:`Coulomb`.
+
+    Coulomb
+     (C) is the SI unit of electric charge. An :term:`electron` has a charge of −1.6 × 10\ :sup:`-19` C and a proton has a
+     charge of +1.6 × 10\ :sup:`-19` C
+
+    current
+     is a measure of charge flow, expressed in the SI unit of :term:`Amps<Amp>`.
+
+    Ampere
+    Amp
+     (A, or Amp) is the :term:`SI` unit of :term:`current`, defined such that one Ampere is the same as one :term:`Coulomb`
+     per second (1 A = 1 C/s)
+
+    AC
+     alternating current.
+
+    Planck’s constant
+     is a fundamental constant of nature associated with quantum mechanics and the world of the
+     very small. In :term:`SI` units, its value is h = 6.626 × 10\ :sup:`-34` J · s
+
+    electron-volt
+     (eV) is a unit of energy, defined as the energy (work) it takes to push a charge of one fundamental charge unit (see entry for :term:`Coulomb`) 
+     through an electric potential of one Volt. 1 eV is equivalent to 1.6 × 10\ :sup:`-19` :term:`Joules<Joule>`.
+
+    mole
+     is a number of atoms or molecules, tuned so that one mole of the carbon-12 :term:`isotope` is exactly 12.000 grams. It takes 6.022 × 10\ :sup:`23` atoms 
+     for this to happen, which is called :term:`Avogadro’s number`.
+
+    Avogadro’s number
+     is 𝑁\ :sub:`A` = 6.022 × 10\ :sup:`23`, pertaining to one :term:`mole` of particles (e.g., atoms, molecules).
+
+    isotope
+     is what we call atoms that have various nuclear configurations for the same element. That is, 
+     variants of a :term:`nucleus` having the same number of :term:`protons<proton>` but differing numbers of :term:`neutrons<neutron>`, 
+     and therefore differing mass number.
+
+    nucleus
+     is at the center of an atom, composed of :term:`protons<proton>` and :term:`neutrons<neutron>` and spanning ∼ 10\ :sup:`-15` m. The vast majority (99.97%) 
+     of an atom’s mass is in the positively charged nucleus, which attracts a cloud of negative-charge :term:`electrons<electron>` to complete the neutral atom.
+
+    electron
+     is a fundamental particle typically found in the outer parts of atoms, surrounding the :term:`nucleus`. Electrons have negative charge equal and opposite to that of 
+     :term:`protons<proton>`, but are 1,836 times lighter than the proton, at 0.511 MeV.
+
+    proton
+     is one of two basic building blocks of atomic nuclei, the other being the :term:`neutron`. Protons have positive charge, equal and opposite to that of the :term:`electron`. 
+     Protons have a mass of 938.272 MeV, or 1.0072765 :term:`a.m.u.`. Protons are made up of three quarks: 2 up and 1 down. 
+
+    neutron
+     is one of two basic building blocks of atomic nuclei, the other being the :term:`proton`. Neutrons have no electric charge, and a mass of 939.565 MeV, 
+     or 1.008665 :term:`atomic mass unit` (a.m.u.). Neutrons are made up of three quarks: 1 up and 2 down.
+
+    atomic mass unit
+    a.m.u.
+     is defined so that a single neutral carbon atom, consisting of 6 :term:`protons<proton>`, 6 :term:`neutrons<neutron>`, and 6 :term:`electrons<electron>` has exactly 12.00000 a.m.u. In other units, 
+     it is 931.4941 MeV or 1.66054 × 10\ :sup:`-27` kg. This unit sometimes goes by the name: Dalton.
+

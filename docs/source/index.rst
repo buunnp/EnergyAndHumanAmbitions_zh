@@ -53,6 +53,7 @@ Energy and Human Ambitions on a Finite Planet 中文版
    Appendices/index
    glossary
    refs
+   Notation
    翻译手记
 
 ----
