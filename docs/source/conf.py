@@ -34,7 +34,9 @@ release = ''
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 # extensions = []
-extensions = ['sphinx.ext.mathjax','sphinxcontrib.bibtex']
+extensions = ['sphinx.ext.mathjax',
+              'sphinx.ext.autosectionlabel',
+              'sphinxcontrib.bibtex']
 
 bibtex_bibfiles = ['refs.bib']
 bibtex_default_style = "onlytitle"
@@ -69,10 +71,25 @@ rst_prolog = """
 
  """
 
-# Support color in Latex output:
+# # Support color in Latex output:
+# latex_elements = {
+#     'passoptionstopackages': r'\PassOptionsToPackage{svgnames}{xcolor}',
+#     'preamble': r'''
+# \newcommand{\DUrolered}[1]{{\color{red} #1}}
+# ''',
+# }
+
+# LaTeX 配置
 latex_elements = {
-    'passoptionstopackages': r'\PassOptionsToPackage{svgnames}{xcolor}',
+    'papersize': 'a4paper',
+    'pointsize': '11pt',
     'preamble': r'''
-\newcommand{\DUrolered}[1]{{\color{red} #1}}
-''',
+        \usepackage{xeCJK}
+        \setCJKmainfont{Noto Sans CJK SC}
+        \usepackage{geometry}
+        \geometry{a4paper,left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+        \newcommand{\DUrolered}[1]{{\color{red} #1}}
+    ''',
+    'passoptionstopackages': r'\PassOptionsToPackage{svgnames}{xcolor}',
 }
+
