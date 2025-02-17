@@ -308,3 +308,56 @@
     entropy
      is a measure of how many ways a system can be configured for some fixed energy level. The
      entropy of a closed system cannot decrease.
+
+    conservation of energy
+     says that energy is never created or destroyed, only shifting from one form to another.
+
+    coefficient of performance
+    COP
+     refers to the energy gain by a heat pump, usually in the context of heating rather than cooling. It is identical to 𝜀 , as defined in Eq. 6.11
+
+    energy efficiency ratio
+    EER
+     refers to the energy gain by a heat pump, usually in the context of cooling rather than
+     heating. Its units are odd, defining how many British thermal units (thermal energy) may be
+     moved per Watt-hour of input energy, but relating to 𝜀 (defined in Eq. 6.10 (p. 95)) by a simple cool
+     numerical factor: EER = 3.41𝜀 . Sometimes seen as SEER to represent a seasonal average EER cool
+     value. 
+
+    heating seasonal performance factor
+    HSPF
+     refers to the energy gain by a heat pump in the context of heating, but in the same units
+     as the :term:`EER` so that HSPF is :term:`COP` times 3.41, numerically. 
+
+    solar constant
+     measures 1,360 W/m\ :sup:`2`, and is the power flux of the sun at the top of Earth’s atmosphere. It is
+     not technically a constant, but is very stable.
+
+    blackbody
+     is a term describing the radiative qualities for thermal emission of light (infrared radiation for “normal” temperatures,
+     becoming visible for very hot objects). A perfect blackbody is not reflective (i.e., “black” at the wavelengths of interest)
+     and emits energy as a function of wavelength according to the :term:`Planck spectrum`.
+
+    Planck spectrum
+     describes a mathematically precise spectrum of light emission from a :term:`blackbody`, fully defined
+     by the temperature of the blackbody.
+
+    radiative forcing
+     is used to describe the areal power (in W/m\ :sub:`2`) of absorbed solar energy and :term:`infrared radiation` to space.
+     In equilibrium, a balance exists so that the net radiative forcing is zero. 
+
+    climate sensitivity parameter
+     relates a change in :term:`radiative forcing` to the net temperature change once all the feedback
+     mechanisms have acted. The units are °C per W/m\ :sub:`2`, and a typical value is 0.8.
+
+    parts per million
+    ppm
+     is a unit used to measure small contributions. One ppm is 0.0001%.
+
+    parts per million by mass
+     (ppm\ :sub:`m`) is a parts per million measure in terms of fractional mass. For instance, a gram is
+     1 ppm\ :sub:`m` of a metric ton (1,000 kg).
+
+    parts per million by volume
+     (ppm\ :sub:`v`) is a parts per million measure in terms of fractional volume occupied. For instance, a 
+     cubic millimeter (1 𝜇m, or micro-liter) is 1 ppm\ :sub:`v` of a liter.
