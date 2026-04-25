@@ -5,3 +5,7 @@ build/
 .vscode/
 
 .DS_Store
+
+pdf2md/
+
+提示词.md
