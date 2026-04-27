@@ -414,13 +414,9 @@
      see :term:`breeder reactor`.
 
     Calorie
-    kcal
-     (Cal, or kcal) is a unit of :term:`energy`, defined as the amount of energy required to
+     (cal) is a unit of :term:`energy`, defined as the amount of energy required to
      heat one kilogram (1 kg, 1 L, 1,000 cm\ :sup:`3`) of water by 1 °C. It is equivalent
-     to 4,184 :term:`Joules<Joule>`, and is the exact same thing as a :term:`kilocalorie`.
-     Note the capital C differentiates it from the :term:`calorie`, which is 1,000 times
-     smaller, making this the dumbest unit convention around, and strongly favoring the use of
-     the equivalent kcal instead.
+     to 4,184 :term:`Joules<Joule>`.
 
     capacity factor
      is the fraction of :term:`energy` delivered by an installation compared to what it would
@@ -682,15 +678,13 @@
      different :term:`doping`. Junctions are the basis of :term:`photovoltaic`, diodes,
      light emitting diodes (:term:`LEDs<LED>`), transistors, and many light detectors.
 
-    kcal
-     :term:`kilocalorie`.
-
     Kill-A-Watt
      is the name of a relatively inexpensive device that can measure instantaneous
      :term:`power` in :term:`Watts<Watt>` and accumulated :term:`energy` in kWh of
      electrical appliances. The name is a pun on units.
 
     kilocalorie
+    kcal
      (kcal) is a unit of :term:`energy`, equivalent to 1,000 :term:`calories<calorie>`,
      defined as the amount of energy required to heat one kilogram (1 kg, 1 L, 1,000
      cm\ :sup:`3`) of water by 1 °C. It is equivalent to 4,184 :term:`Joules<Joule>`.
@@ -812,9 +806,6 @@
      pertains to the amount of resource known to exist, having been discovered and surveyed
      to a degree of certainty.
 
-    PV
-     :term:`photovoltaic`.
-
     Quadrillion
     Quad
      is 10\ :sup:`15` British thermal units, and is equivalent to 1.055 × 10\ :sup:`18`
@@ -869,9 +860,6 @@
      spectrum specifies how much light is present as a function of :term:`wavelength` or
      :term:`frequency`. The :term:`Planck spectrum` is a good example.
 
-    ST
-     :term:`solar thermal`.
-
     thermal expansion
      describes how materials expand, or swell, as temperature increases. Typical rates of
      expansion are in the range of 10–100 ppm per °C.
@@ -903,9 +891,6 @@
     Wh
      (Wh) is a unit of :term:`energy`, constructed as a :term:`power` (watts) times time
      (hours). It is equivalent to 3,600 :term:`Joules<Joule>`, or 3.6 kJ.
-
-    Wh
-     :term:`watt-hour`.
 
     weak nuclear force
      joins gravity, electromagnetism, and the strong nuclear force as one of nature's four

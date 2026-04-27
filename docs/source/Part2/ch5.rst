@@ -559,7 +559,7 @@
 
   .. math:: E = h\nu = \frac{hc}{\lambda}. \tag{5.4}
   
-  其中，h = 6.626 × 10\ :sup:`-34` J·s 是\ :term:`普朗克常数<Planck’s constant>`，
+  其中，h = 6.626 × 10\ :sup:`-34` J·s 是\ :term:`普朗克常数<Planck's constant>`，
   𝑐 ≈ 3.0 × 10\ :sup:`8` m/s 是光速。
 
 .. _exp5.10.1:
