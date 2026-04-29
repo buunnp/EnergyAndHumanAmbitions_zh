@@ -364,7 +364,7 @@
 
     Astronomical Unit
     AU
-     (AU) is a unit of distance, equal to the average Earth-Sun distance of 149.6 million
+     is a unit of distance, equal to the average Earth-Sun distance of 149.6 million
      kilometers (1.496 × 10\ :sup:`11` m).
 
     asymmetric risk
@@ -470,7 +470,7 @@
      that the :term:`chain reaction` does not get out of control and cause a :term:`meltdown`.
 
     coupled
-     refers to the tight connection often seen between :term:`energy`/resource use and
+     refers to the tight connection often seen between :term:`energy`/resource use and 
      economic scale (as measured, for instance, by :term:`GDP`).
 
     critical mass
@@ -506,7 +506,7 @@
      :term:`neutron`.
 
     dietary energy factor
-     is the quantitative :term:`energy` impact of a set of dietary choices compared to a
+     is the quantitative :term:`energy` impact of a set of dietary choices compared to a 
      vegetarian diet. A typical American diet has a dietary energy factor around 2, meaning
      it takes twice as much energy as would a vegetarian diet. This term is not in universal
      use.
